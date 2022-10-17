@@ -1,0 +1,14 @@
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.exe
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.deps.json
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.runtimeconfig.json
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.runtimeconfig.dev.json
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.dll
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\bin\Debug\netcoreapp3.1\matekcuccli.pdb
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.csproj.AssemblyReference.cache
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.AssemblyInfoInputs.cache
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.AssemblyInfo.cs
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.csproj.CoreCompileInputs.cache
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.dll
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.pdb
+C:\Users\én\Desktop\c# project\matekcuccli\matekcuccli\obj\Debug\netcoreapp3.1\matekcuccli.genruntimeconfig.cache
